@@ -15,7 +15,7 @@ There are two ways to manage Racket package installations:
        Manager..."]  item in the @onscreen["File"] menu.
 
        You can also install the @pkgname{gui-pkg-manager} package,
-       with provides a @onscreen{Racket Package Manager} application
+       which provides a @onscreen{Racket Package Manager} application
        (which can be launched as @exec{racket-package-manager} in a
        command-line environment).}
 
